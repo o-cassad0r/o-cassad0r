@@ -5,6 +5,10 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+env:
+  # Força o runner a usar o Node 24 e desliga o aviso do GitHub
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
