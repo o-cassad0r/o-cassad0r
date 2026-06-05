@@ -46,6 +46,10 @@
 <p align="left">Minhas ferramentas para manipulação e visualização de dados:</p>
 
 
-<img src="https://raw.githubusercontent.com/o-cassad0r/o-cassad0r/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/o-cassad0r/o-cassad0r/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/o-cassad0r/o-cassad0r/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Animated Snake" src="https://raw.githubusercontent.com/o-cassad0r/o-cassad0r/output/github-contribution-grid-snake.svg">
+</picture>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&textBg=false&reversal=false&section=footer"/>
