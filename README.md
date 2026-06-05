@@ -12,11 +12,20 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=o-cassad0r&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=o-cassad0r&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=o-cassad0r&locale=pt-br&mode=weekly&theme=radical&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=o-cassad0r&theme=dark_dimmed&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
- </div>
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" valign="middle">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=o-cassad0r&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=pt-br&hide_border=true&order=1" height="140" alt="stats graph" />
+      </td>
+      <td align="center" valign="middle">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=o-cassad0r&locale=pt-br&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=codeSTACKr&hide_border=true&order=2" height="140" alt="languages graph" />
+      </td>
+      <td align="center" valign="middle">
+        <img src="https://streak-stats.vercel.app?user=o-cassad0r&theme=radical&locale=pt_br&hide_border=true" height="140" alt="streak graph" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=o-cassad0r&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
