@@ -3,6 +3,7 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=O+Caçador&textBg=false&fontColor=ff0000&animation=blinking&reversal=false&section=header&fontSize=50"/>
 
 ---
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem+vindo;Use+com+moderação;Welcome,+use+in+moderation)](https://git.io/typing-svg)
 
 <br clear="both">
@@ -23,6 +24,16 @@ Sou um pesquisador de segurança cibernética profundamente imerso nos campos da
 
 ---
 
+### Contato
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/nyckosti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/7hehun7er/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.youtube.com/@nyckosti" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://discord.gg/nDBNyBm7" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+
+---
+
 ### 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
@@ -35,17 +46,11 @@ Sou um pesquisador de segurança cibernética profundamente imerso nos campos da
 
 ---
 
+<br>
 ### Estatísticas do GitHub
-
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=o-cassad0r&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&title_color=15e5a6" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=o-cassad0r&layout=compact&langs_count=5&theme=radical&hide_border=true&title_color=15e5a6" height="150" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=o-cassad0r&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 ---
@@ -60,13 +65,5 @@ Sou um pesquisador de segurança cibernética profundamente imerso nos campos da
   </picture>
 </div>
 
----
-
-### Contato
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/nyckosti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://instagram.com/7hehun7er/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.youtube.com/@nyckosti" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://discord.gg/nDBNyBm7" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&textBg=false&reversal=false&section=footer"/>
 </div>
