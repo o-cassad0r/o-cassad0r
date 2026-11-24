@@ -1,0 +1,45 @@
+name: Generate GitHub Contribution Snake
+
+on:
+  # Executa automaticamente a cada 12 horas
+  schedule:
+    - cron: "0 */12 * * *"
+
+  # Permite acionar manualmente pela aba "Actions"
+  workflow_dispatch:
+
+  # Executa sempre que houver push na branch main
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    name: Build Snake SVG
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    permissions:
+      contents: write
+
+    steps:
+      # 1. Gera os arquivos SVG (tema claro e tema escuro)
+      - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # 2. Envia os arquivos gerados para a branch "output"
+      - name: Push Snake SVG to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "chore: update contribution snake svg"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
